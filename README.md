@@ -30,4 +30,11 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+  <br/>
+  <br/>
+  
+  ##  :calendar: LOG
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KwonYongHwan920&layout=compact"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=KwonYongHwan920&show_icons=true">
 </div>
